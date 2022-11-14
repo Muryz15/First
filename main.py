@@ -1,1 +1,3 @@
-print("hello")
+import turtle
+turtle.Turtle = t
+t.write("hello")
